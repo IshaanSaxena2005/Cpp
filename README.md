@@ -1,2 +1,2 @@
 # Cpp
-My practice of c++ codes
+I have made this repository to share my daily practice of c++ codes.
