@@ -9,6 +9,8 @@ int fact(int n){
 }
 
 int main(){
-    cout<<fact(4);
+    int n;
+    cin>>n;
+    cout<<fact(n);
     return 0;
 }
