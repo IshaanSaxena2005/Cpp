@@ -6,6 +6,7 @@ I have made this repository to share my practice of DSA in C++.
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/IshaanSaxena2005/Cpp/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/IshaanSaxena2005/Cpp/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/IshaanSaxena2005/Cpp/tree/master/0053-maximum-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/IshaanSaxena2005/Cpp/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -14,6 +15,7 @@ I have made this repository to share my practice of DSA in C++.
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/IshaanSaxena2005/Cpp/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/IshaanSaxena2005/Cpp/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/IshaanSaxena2005/Cpp/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/IshaanSaxena2005/Cpp/tree/master/0283-move-zeroes) |
@@ -37,4 +39,8 @@ I have made this repository to share my practice of DSA in C++.
 |  |
 | ------- |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/IshaanSaxena2005/Cpp/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/IshaanSaxena2005/Cpp/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
