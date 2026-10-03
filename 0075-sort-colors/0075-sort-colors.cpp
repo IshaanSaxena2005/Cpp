@@ -14,10 +14,6 @@ public:
             else if(nums[i]==2){
                 twos++;
             }
-            else{
-                cout<<"Invalid Color";
-                break;
-            }
         }
         for(int i=0;i<zeroes;i++){
             nums[i]=0;
